@@ -21,5 +21,14 @@ pip install requests
 ### 3. Chạy lệnh
 
 ```bash
-python linkday.xyz.py
+python xlink.py
 ```
+#### Ví dụ:
+```
+Vui lòng nhập từ khóa cần tìm: kế hoạch kiếm tiền affiliate
+Mã code: ReferralPermate
+```
+
+---
+
+# Code viết bằng ChatGPT đừng có ý với tui, có thì kêu ChatGPT đấy.
