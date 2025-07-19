@@ -1,4 +1,4 @@
-# 🔍 Bypass Xlink (linkday.xyz)
+# 🔍 Bypass Xlink.co (linkday.xyz)
 
 Một công cụ bypass đơn giản (lỏ) dành cho người cụt tay.
 ---
